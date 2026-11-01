@@ -1,0 +1,8 @@
+MARKETING EDA SUMMARY
+Campaigns: 500
+Spend: ₹1,174,630.59
+Revenue: ₹17,901,437.19
+Overall ROI: 1424.0%
+Highest channel ROI: Email (1485.9%)
+
+Recommendation: Treat this as an illustrative result only. Before shifting real budget, validate gross margin, attribution window, incrementality, conversion quality and customer lifetime value.
